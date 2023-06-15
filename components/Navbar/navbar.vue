@@ -33,6 +33,7 @@ h1 {
   color: white;
   font-size: 64px;
   margin: 20px 0;
+  font-weight: 300;
 }
 
 .navbar {
