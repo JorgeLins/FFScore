@@ -97,6 +97,8 @@ const games = [
 
     .region{
         font-size: 12px;
+        font-weight: 600;
+        width:40.5px;
     }
 
     .game{
@@ -107,6 +109,7 @@ const games = [
         .team{
             font-size: 12px;
              font-weight: 600;
+             width:21px
         }
 
         h1{
