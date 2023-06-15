@@ -98,7 +98,7 @@ const games = [
     .region{
         font-size: 12px;
         font-weight: 600;
-        width:40.5px;
+        width:39.70px;
     }
 
     .game{
