@@ -91,7 +91,7 @@ const games = [
      font-weight: 600;
 
     img {
-        width: 52px;
+        width: 62px;
         height: 32px;
     }
 
