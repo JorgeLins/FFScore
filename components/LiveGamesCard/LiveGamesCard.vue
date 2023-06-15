@@ -84,7 +84,7 @@ const games = [
     padding: 1rem;
     background-color: #302F2F;
     align-items: center;
-    gap: 2.2rem;
+    gap: 2rem;
     /* margin-bottom: 1rem; */
     /* border-radius: 0.5rem; */
     border-bottom: 1.11973px solid #6F6F6F;
