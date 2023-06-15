@@ -88,6 +88,7 @@ const games = [
     /* margin-bottom: 1rem; */
     /* border-radius: 0.5rem; */
     border-bottom: 1.11973px solid #6F6F6F;
+     font-weight: 600;
 
     img {
         width: 32px;
@@ -105,10 +106,12 @@ const games = [
 
         .team{
             font-size: 12px;
+             font-weight: 600;
         }
 
         h1{
             font-size: 12px;
+             font-weight: 600;
         }
     }
 }
