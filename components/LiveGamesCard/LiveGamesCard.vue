@@ -84,14 +84,14 @@ const games = [
     padding: 1rem;
     background-color: #302F2F;
     align-items: center;
-    gap: 5rem;
+    gap: 2.2rem;
     /* margin-bottom: 1rem; */
     /* border-radius: 0.5rem; */
     border-bottom: 1.11973px solid #6F6F6F;
      font-weight: 600;
 
     img {
-        width: 32px;
+        width: 52px;
         height: 32px;
     }
 
