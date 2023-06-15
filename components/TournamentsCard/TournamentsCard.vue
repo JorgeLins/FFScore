@@ -99,6 +99,7 @@
     gap: 3rem;
     margin-bottom: 1rem;
     border-radius: 0.5rem;
+    font-weight: 600;
 
     img {
         width: 32px;
@@ -117,6 +118,7 @@
 
     h1{
         font-size: 11px;
+         font-weight: 600;
     }
 }
 
@@ -129,6 +131,7 @@
         padding: 0.25rem;
     background-color: #6F6F6F;
     border-radius: 0.2rem;
+     font-weight: 600;
     }
 }
 </style>
